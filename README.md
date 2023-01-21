@@ -8,7 +8,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dnyanesh58&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
+![image title](https://rushter.com/counter.svg)
 
 
 ---
