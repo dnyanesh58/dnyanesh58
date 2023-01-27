@@ -12,7 +12,6 @@
 
 
 ---
-[![]
 ![GitHub Views](https://komarev.com/ghpvc/?username=dnyanesh58)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
