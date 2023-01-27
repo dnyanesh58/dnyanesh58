@@ -12,7 +12,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dnyanesh58&icon=2&color=0)](https://visitcount.itsvg.in)
+[![]
 ![GitHub Views](https://komarev.com/ghpvc/?username=dnyanesh58)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
